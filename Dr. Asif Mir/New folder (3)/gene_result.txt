@@ -1,0 +1,135 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+141317	Justicia adhatoda	54617953	0	live	clpP	HJF47_pgp041	ATP-dependent Clp protease proteolytic subunit	ATP-dependent Clp protease proteolytic subunit			NC_047476.1	68580	70595	minus	0		
+141317	Justicia adhatoda	54617951	0	live	rpl2	HJF47_pgp001	ribosomal protein L2	ribosomal protein L2			NC_047476.1	147818	149308	plus	0		
+141317	Justicia adhatoda	54617950	0	live	rps12	HJF47_pgp042	ribosomal protein S12	ribosomal protein S12			NC_047476.1	68333	68446	minus	0		
+141317	Justicia adhatoda	54617950	0	live	rps12	HJF47_pgp042	ribosomal protein S12	ribosomal protein S12			NC_047476.1	95447	96240	minus	0		
+141317	Justicia adhatoda	54617949	0	live	rpl23	HJF47_pgp002	ribosomal protein L23	ribosomal protein L23			NC_047476.1	147518	147799	plus	0		
+141317	Justicia adhatoda	54617947	0	live	ycf2	HJF47_pgp003	Ycf2	Ycf2			NC_047476.1	140432	147190	minus	0		
+141317	Justicia adhatoda	54617946	0	live	ycf15	HJF47_pgp004	Ycf15	Ycf15			NC_047476.1	140228	140341	minus	0		
+141317	Justicia adhatoda	54617944	0	live	ndhB	HJF47_pgp005	NADH dehydrogenase subunit 2	NADH dehydrogenase subunit 2			NC_047476.1	137380	139591	plus	0		
+141317	Justicia adhatoda	54617943	0	live	rps7	HJF47_pgp006	ribosomal protein S7	ribosomal protein S7			NC_047476.1	136659	137126	plus	0		
+141317	Justicia adhatoda	54617933	0	live	ycf1	HJF47_pgp007	Ycf1	Ycf1			NC_047476.1	120114	125351	minus	0		
+141317	Justicia adhatoda	54617932	0	live	rps15	HJF47_pgp008	ribosomal protein S15	ribosomal protein S15			NC_047476.1	119438	119710	minus	0		
+141317	Justicia adhatoda	54617931	0	live	ndhH	HJF47_pgp009	NADH dehydrogenase subunit 7	NADH dehydrogenase subunit 7			NC_047476.1	118160	119341	minus	0		
+141317	Justicia adhatoda	54617930	0	live	ndhA	HJF47_pgp010	NADH dehydrogenase subunit 1	NADH dehydrogenase subunit 1			NC_047476.1	116069	118158	minus	0		
+141317	Justicia adhatoda	54617929	0	live	ndhI	HJF47_pgp011	NADH dehydrogenase subunit I	NADH dehydrogenase subunit I			NC_047476.1	115486	115989	minus	0		
+141317	Justicia adhatoda	54617928	0	live	ndhG	HJF47_pgp012	NADH dehydrogenase subunit 6	NADH dehydrogenase subunit 6			NC_047476.1	114627	115157	minus	0		
+141317	Justicia adhatoda	54617927	0	live	ndhE	HJF47_pgp013	NADH dehydrogenase subunit 4L	NADH dehydrogenase subunit 4L			NC_047476.1	114127	114432	minus	0		
+141317	Justicia adhatoda	54617926	0	live	psaC	HJF47_pgp014	photosystem I subunit VII	photosystem I subunit VII			NC_047476.1	113627	113872	minus	0		
+141317	Justicia adhatoda	54617925	0	live	ndhD	HJF47_pgp015	NADH dehydrogenase subunit 4	NADH dehydrogenase subunit 4			NC_047476.1	111991	113445	minus	0		
+141317	Justicia adhatoda	54617924	0	live	ccsA	HJF47_pgp016	cytochrome c biogenesis protein	cytochrome c biogenesis protein			NC_047476.1	110776	111753	plus	0		
+141317	Justicia adhatoda	54617922	0	live	rpl32	HJF47_pgp017	ribosomal protein L32	ribosomal protein L32			NC_047476.1	109906	110061	plus	0		
+141317	Justicia adhatoda	54617921	0	live	ndhF	HJF47_pgp018	NADH dehydrogenase subunit 5	NADH dehydrogenase subunit 5			NC_047476.1	107393	109690	minus	0		
+141317	Justicia adhatoda	54617911	0	live	rps7	HJF47_pgp019	ribosomal protein S7	ribosomal protein S7			NC_047476.1	94926	95393	minus	0		
+141317	Justicia adhatoda	54617910	0	live	ndhB	HJF47_pgp020	NADH dehydrogenase subunit 2	NADH dehydrogenase subunit 2			NC_047476.1	92461	94672	minus	0		
+141317	Justicia adhatoda	54617908	0	live	ycf15	HJF47_pgp021	Ycf15	Ycf15			NC_047476.1	91711	91824	plus	0		
+141317	Justicia adhatoda	54617907	0	live	ycf2	HJF47_pgp022	Ycf2	Ycf2			NC_047476.1	84862	91620	plus	0		
+141317	Justicia adhatoda	54617905	0	live	rpl23	HJF47_pgp023	ribosomal protein L23	ribosomal protein L23			NC_047476.1	84253	84534	minus	0		
+141317	Justicia adhatoda	54617904	0	live	rpl2	HJF47_pgp024	ribosomal protein L2	ribosomal protein L2			NC_047476.1	82744	84234	minus	0		
+141317	Justicia adhatoda	54617903	0	live	rps19	HJF47_pgp025	ribosomal protein S19	ribosomal protein S19			NC_047476.1	82400	82678	minus	0		
+141317	Justicia adhatoda	54617902	0	live	rpl22	HJF47_pgp026	ribosomal protein L22	ribosomal protein L22			NC_047476.1	81948	82340	minus	0		
+141317	Justicia adhatoda	54617901	0	live	rps3	HJF47_pgp027	ribosomal protein S3	ribosomal protein S3			NC_047476.1	81270	81935	minus	0		
+141317	Justicia adhatoda	54617900	0	live	rpl16	HJF47_pgp028	ribosomal protein L16	ribosomal protein L16			NC_047476.1	79630	81108	minus	0		
+141317	Justicia adhatoda	54617899	0	live	rpl14	HJF47_pgp029	ribosomal protein L14	ribosomal protein L14			NC_047476.1	79144	79512	minus	0		
+141317	Justicia adhatoda	54617898	0	live	rps8	HJF47_pgp030	ribosomal protein S8	ribosomal protein S8			NC_047476.1	78566	78970	minus	0		
+141317	Justicia adhatoda	54617897	0	live	infA	HJF47_pgp031	translation initiation factor 1	translation initiation factor 1			NC_047476.1	78211	78444	minus	0		
+141317	Justicia adhatoda	54617896	0	live	rpl36	HJF47_pgp032	ribosomal protein L36	ribosomal protein L36			NC_047476.1	78002	78115	minus	0		
+141317	Justicia adhatoda	54617895	0	live	rps11	HJF47_pgp033	ribosomal protein S11	ribosomal protein S11			NC_047476.1	77484	77900	minus	0		
+141317	Justicia adhatoda	54617894	0	live	rpoA	HJF47_pgp034	RNA polymerase alpha subunit	RNA polymerase alpha subunit			NC_047476.1	76396	77409	minus	0		
+141317	Justicia adhatoda	54617893	0	live	petD	HJF47_pgp035	cytochrome b6/f complex subunit IV	cytochrome b6/f complex subunit IV			NC_047476.1	75033	76262	plus	0		
+141317	Justicia adhatoda	54617892	0	live	petB	HJF47_pgp036	cytochrome b6	cytochrome b6			NC_047476.1	73472	74827	plus	0		
+141317	Justicia adhatoda	54617891	0	live	psbH	HJF47_pgp037	photosystem II protein H	photosystem II protein H			NC_047476.1	73140	73361	plus	0		
+141317	Justicia adhatoda	54617890	0	live	psbN	HJF47_pgp038	photosystem II protein N	photosystem II protein N			NC_047476.1	72903	73034	minus	0		
+141317	Justicia adhatoda	54617889	0	live	psbT	HJF47_pgp039	photosystem II protein T	photosystem II protein T			NC_047476.1	72735	72842	plus	0		
+141317	Justicia adhatoda	54617888	0	live	psbB	HJF47_pgp040	photosystem II 47 kDa protein	photosystem II 47 kDa protein			NC_047476.1	71025	72551	plus	0		
+141317	Justicia adhatoda	54617887	0	live	rps12	HJF47_pgp043	ribosomal protein S12	ribosomal protein S12			NC_047476.1	68333	68446	minus	0		
+141317	Justicia adhatoda	54617887	0	live	rps12	HJF47_pgp043	ribosomal protein S12	ribosomal protein S12			NC_047476.1	135812	136605	plus	0		
+141317	Justicia adhatoda	54617886	0	live	rpl20	HJF47_pgp044	ribosomal protein L20	ribosomal protein L20			NC_047476.1	67156	67542	minus	0		
+141317	Justicia adhatoda	54617885	0	live	rps18	HJF47_pgp045	ribosomal protein S18	ribosomal protein S18			NC_047476.1	66618	66860	plus	0		
+141317	Justicia adhatoda	54617884	0	live	rpl33	HJF47_pgp046	ribosomal protein L33	ribosomal protein L33			NC_047476.1	66222	66422	plus	0		
+141317	Justicia adhatoda	54617883	0	live	psaJ	HJF47_pgp047	photosystem I subunit IX	photosystem I subunit IX			NC_047476.1	65617	65751	plus	0		
+141317	Justicia adhatoda	54617880	0	live	petG	HJF47_pgp048	cytochrome b6/f complex subunit V	cytochrome b6/f complex subunit V			NC_047476.1	64810	64923	plus	0		
+141317	Justicia adhatoda	54617879	0	live	petL	HJF47_pgp049	cytochrome b6/f complex subunit VI	cytochrome b6/f complex subunit VI			NC_047476.1	64532	64627	plus	0		
+141317	Justicia adhatoda	54617878	0	live	psbE	HJF47_pgp050	photosystem II protein V	photosystem II protein V			NC_047476.1	63373	63624	minus	0		
+141317	Justicia adhatoda	54617877	0	live	psbF	HJF47_pgp051	photosystem II protein VI	photosystem II protein VI			NC_047476.1	63239	63358	minus	0		
+141317	Justicia adhatoda	54617876	0	live	psbL	HJF47_pgp052	photosystem II protein L	photosystem II protein L			NC_047476.1	63098	63214	minus	0		
+141317	Justicia adhatoda	54617875	0	live	psbJ	HJF47_pgp053	photosystem II protein J	photosystem II protein J			NC_047476.1	62836	62958	minus	0		
+141317	Justicia adhatoda	54617874	0	live	petA	HJF47_pgp054	cytochrome f	cytochrome f			NC_047476.1	60934	61896	plus	0		
+141317	Justicia adhatoda	54617873	0	live	cemA	HJF47_pgp055	envelope membrane protein	envelope membrane protein			NC_047476.1	60041	60730	plus	0		
+141317	Justicia adhatoda	54617872	0	live	ycf4	HJF47_pgp056	photosystem I assembly protein Ycf4	photosystem I assembly protein Ycf4			NC_047476.1	58758	59312	plus	0		
+141317	Justicia adhatoda	54617871	0	live	psaI	HJF47_pgp057	PSI reaction center subunit VIII	PSI reaction center subunit VIII			NC_047476.1	58237	58347	plus	0		
+141317	Justicia adhatoda	54617870	0	live	accD	HJF47_pgp058	acetyl-CoA carboxylase beta subunit	acetyl-CoA carboxylase beta subunit			NC_047476.1	56140	57609	plus	0		
+141317	Justicia adhatoda	54617869	0	live	rbcL	HJF47_pgp059	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit			NC_047476.1	53974	55440	plus	0		
+141317	Justicia adhatoda	54617868	0	live	atpB	HJF47_pgp060	ATP synthase CF1 beta subunit	ATP synthase CF1 beta subunit			NC_047476.1	51763	53259	minus	0		
+141317	Justicia adhatoda	54617867	0	live	atpE	HJF47_pgp061	ATP synthase CF1 epsilon subunit	ATP synthase CF1 epsilon subunit			NC_047476.1	51365	51766	minus	0		
+141317	Justicia adhatoda	54617864	0	live	ndhC	HJF47_pgp062	NADH dehydrogenase subunit 3	NADH dehydrogenase subunit 3			NC_047476.1	48925	49287	minus	0		
+141317	Justicia adhatoda	54617863	0	live	ndhK	HJF47_pgp063	NADH dehydrogenase subunit K	NADH dehydrogenase subunit K			NC_047476.1	48195	48872	minus	0		
+141317	Justicia adhatoda	54617862	0	live	ndhJ	HJF47_pgp064	NADH dehydrogenase subunit J	NADH dehydrogenase subunit J			NC_047476.1	47619	48095	minus	0		
+141317	Justicia adhatoda	54617858	0	live	rps4	HJF47_pgp065	ribosomal protein S4	ribosomal protein S4			NC_047476.1	44613	45218	minus	0		
+141317	Justicia adhatoda	54617856	0	live	ycf3	HJF47_pgp066	photosystem I assembly protein Ycf3	photosystem I assembly protein Ycf3			NC_047476.1	41771	43671	minus	0		
+141317	Justicia adhatoda	54617855	0	live	psaA	HJF47_pgp067	photosystem I P700 chlorophyll a apoprotein A1	photosystem I P700 chlorophyll a apoprotein A1			NC_047476.1	38867	41119	minus	0		
+141317	Justicia adhatoda	54617854	0	live	psaB	HJF47_pgp068	photosystem I P700 chlorophyll a apoprotein A2	photosystem I P700 chlorophyll a apoprotein A2			NC_047476.1	36637	38841	minus	0		
+141317	Justicia adhatoda	54617853	0	live	rps14	HJF47_pgp069	ribosomal protein S14	ribosomal protein S14			NC_047476.1	36200	36502	minus	0		
+141317	Justicia adhatoda	54617850	0	live	psbZ	HJF47_pgp070	photosystem II protein Z	photosystem II protein Z			NC_047476.1	35287	35475	plus	0		
+141317	Justicia adhatoda	54617848	0	live	psbC	HJF47_pgp071	photosystem II 44 kDa protein	photosystem II 44 kDa protein			NC_047476.1	33201	34622	plus	0		
+141317	Justicia adhatoda	54617847	0	live	psbD	HJF47_pgp072	photosystem II protein D2	photosystem II protein D2			NC_047476.1	32192	33253	plus	0		
+141317	Justicia adhatoda	54617842	0	live	psbM	HJF47_pgp073	PSII M protein	PSII M protein			NC_047476.1	29197	29301	minus	0		
+141317	Justicia adhatoda	54617841	0	live	petN	HJF47_pgp074	cytochrome b6/f complex subunit VIII	cytochrome b6/f complex subunit VIII			NC_047476.1	28147	28236	plus	0		
+141317	Justicia adhatoda	54617839	0	live	rpoB	HJF47_pgp075	RNA polymerase beta subunit	RNA polymerase beta subunit			NC_047476.1	23055	26267	minus	0		
+141317	Justicia adhatoda	54617838	0	live	rpoC1	HJF47_pgp076	RNA polymerase beta' subunit	RNA polymerase beta' subunit			NC_047476.1	20202	23029	minus	0		
+141317	Justicia adhatoda	54617837	0	live	rpoC2	HJF47_pgp077	RNA polymerase beta'' subunit	RNA polymerase beta'' subunit			NC_047476.1	15902	20032	minus	0		
+141317	Justicia adhatoda	54617836	0	live	rps2	HJF47_pgp078	ribosomal protein S2	ribosomal protein S2			NC_047476.1	14965	15675	minus	0		
+141317	Justicia adhatoda	54617835	0	live	atpI	HJF47_pgp079	ATP synthase CF0 A subunit	ATP synthase CF0 A subunit			NC_047476.1	14013	14747	minus	0		
+141317	Justicia adhatoda	54617834	0	live	atpH	HJF47_pgp080	ATP synthase CF0 C subunit	ATP synthase CF0 C subunit			NC_047476.1	12888	13133	minus	0		
+141317	Justicia adhatoda	54617833	0	live	atpF	HJF47_pgp081	ATP synthase CF0 B subunit	ATP synthase CF0 B subunit			NC_047476.1	11218	12480	minus	0		
+141317	Justicia adhatoda	54617832	0	live	atpA	HJF47_pgp082	ATP synthase CF1 alpha subunit	ATP synthase CF1 alpha subunit			NC_047476.1	9637	11160	minus	0		
+141317	Justicia adhatoda	54617828	0	live	psbI	HJF47_pgp083	photosystem II protein I	photosystem II protein I			NC_047476.1	7568	7678	plus	0		
+141317	Justicia adhatoda	54617827	0	live	psbK	HJF47_pgp084	photosystem II protein K	photosystem II protein K			NC_047476.1	6972	7157	plus	0		
+141317	Justicia adhatoda	54617825	0	live	rps16	HJF47_pgp085	ribosomal protein S16	ribosomal protein S16			NC_047476.1	4533	5665	minus	0		
+141317	Justicia adhatoda	54617824	0	live	matK	HJF47_pgp086	maturase K	maturase K			NC_047476.1	1788	3305	minus	0		
+141317	Justicia adhatoda	54617822	0	live	psbA	HJF47_pgp087	photosystem II protein D1	photosystem II protein D1			NC_047476.1	345	1403	minus	0		
+141317	Justicia adhatoda	54617941	0	live	rrn16	HJF47_pgr001	16S ribosomal RNA				NC_047476.1	132433	133923	minus	0		
+141317	Justicia adhatoda	54617938	0	live	rrn23	HJF47_pgr002	23S ribosomal RNA				NC_047476.1	127192	130002	minus	0		
+141317	Justicia adhatoda	54617937	0	live	rrn4.5	HJF47_pgr003	4.5S ribosomal RNA				NC_047476.1	126991	127093	minus	0		
+141317	Justicia adhatoda	54617936	0	live	rrn5	HJF47_pgr004	5S ribosomal RNA				NC_047476.1	126615	126735	minus	0		
+141317	Justicia adhatoda	54617918	0	live	rrn5	HJF47_pgr005	5S ribosomal RNA				NC_047476.1	105317	105437	plus	0		
+141317	Justicia adhatoda	54617917	0	live	rrn4.5	HJF47_pgr006	4.5S ribosomal RNA				NC_047476.1	104959	105061	plus	0		
+141317	Justicia adhatoda	54617916	0	live	rrn23	HJF47_pgr007	23S ribosomal RNA				NC_047476.1	102050	104860	plus	0		
+141317	Justicia adhatoda	54617913	0	live	rrn16	HJF47_pgr008	16S ribosomal RNA				NC_047476.1	98129	99619	plus	0		
+141317	Justicia adhatoda	54617952	0	live	trnH(GUG)	HJF47_pgt001	tRNA				NC_047476.1				0		
+141317	Justicia adhatoda	54617948	0	live	trnH (CAU)	HJF47_pgt037	tRNA				NC_047476.1	147279	147352	plus	0		
+141317	Justicia adhatoda	54617945	0	live	trnL (CAA)	HJF47_pgt036	tRNA				NC_047476.1	140132	140212	minus	0		
+141317	Justicia adhatoda	54617942	0	live	trnV (GAC)	HJF47_pgt035	tRNA				NC_047476.1	134151	134222	minus	0		
+141317	Justicia adhatoda	54617940	0	live	trnI (GAU)	HJF47_pgt034	tRNA				NC_047476.1	131115	132133	minus	0		
+141317	Justicia adhatoda	54617939	0	live	trnA (UGC)	HJF47_pgt033	tRNA				NC_047476.1	130166	131050	minus	0		
+141317	Justicia adhatoda	54617935	0	live	trnR (ACG)	HJF47_pgt032	tRNA				NC_047476.1	126322	126394	minus	0		
+141317	Justicia adhatoda	54617934	0	live	trnN (GUU)	HJF47_pgt031	tRNA				NC_047476.1	125680	125751	plus	0		
+141317	Justicia adhatoda	54617923	0	live	trnL (UAG)	HJF47_pgt030	tRNA				NC_047476.1	110608	110687	plus	0		
+141317	Justicia adhatoda	54617920	0	live	trnN (GUU)	HJF47_pgt029	tRNA				NC_047476.1	106301	106372	minus	0		
+141317	Justicia adhatoda	54617919	0	live	trnR (ACG)	HJF47_pgt028	tRNA				NC_047476.1	105658	105730	plus	0		
+141317	Justicia adhatoda	54617915	0	live	trnA (UGC)	HJF47_pgt027	tRNA				NC_047476.1	101002	101886	plus	0		
+141317	Justicia adhatoda	54617914	0	live	trnI (GAU)	HJF47_pgt026	tRNA				NC_047476.1	99919	100937	plus	0		
+141317	Justicia adhatoda	54617912	0	live	trnV (GAC)	HJF47_pgt025	tRNA				NC_047476.1	97830	97901	plus	0		
+141317	Justicia adhatoda	54617909	0	live	trnL (CAA)	HJF47_pgt024	tRNA				NC_047476.1	91840	91920	minus	0		
+141317	Justicia adhatoda	54617906	0	live	trnH (CAU)	HJF47_pgt023	tRNA				NC_047476.1	84700	84773	minus	0		
+141317	Justicia adhatoda	54617882	0	live	trnP (UGG)	HJF47_pgt022	tRNA				NC_047476.1	65274	65347	minus	0		
+141317	Justicia adhatoda	54617881	0	live	trnW (CCA)	HJF47_pgt021	tRNA				NC_047476.1	65055	65128	minus	0		
+141317	Justicia adhatoda	54617866	0	live	trnM (CAU)	HJF47_pgt020	tRNA				NC_047476.1	51088	51160	plus	0		
+141317	Justicia adhatoda	54617865	0	live	trnV (UAC)	HJF47_pgt019	tRNA				NC_047476.1	50253	50911	minus	0		
+141317	Justicia adhatoda	54617861	0	live	trnF (GAA)	HJF47_pgt018	tRNA				NC_047476.1	47260	47332	plus	0		
+141317	Justicia adhatoda	54617860	0	live	trnL (UAA)	HJF47_pgt017	tRNA				NC_047476.1	46399	46972	plus	0		
+141317	Justicia adhatoda	54617859	0	live	trnT (UGU)	HJF47_pgt016	tRNA				NC_047476.1	45623	45695	minus	0		
+141317	Justicia adhatoda	54617857	0	live	trnS (GGA)	HJF47_pgt015	tRNA				NC_047476.1	44243	44329	plus	0		
+141317	Justicia adhatoda	54617852	0	live	tRNA-fM (CAU)	HJF47_pgt014	tRNA				NC_047476.1	35982	36055	minus	0		
+141317	Justicia adhatoda	54617851	0	live	trnG (GCC)	HJF47_pgt013	tRNA				NC_047476.1	35760	35830	plus	0		
+141317	Justicia adhatoda	54617849	0	live	trnS (UGA)	HJF47_pgt012	tRNA				NC_047476.1	34876	34968	minus	0		
+141317	Justicia adhatoda	54617846	0	live	trnT (GGU)	HJF47_pgt011	tRNA				NC_047476.1	30836	30907	minus	0		
+141317	Justicia adhatoda	54617845	0	live	trnE (UUC)	HJF47_pgt010	tRNA				NC_047476.1	30134	30206	minus	0		
+141317	Justicia adhatoda	54617844	0	live	trnY (GUA)	HJF47_pgt009	tRNA				NC_047476.1	29979	30062	minus	0		
+141317	Justicia adhatoda	54617843	0	live	trnD (GUC)	HJF47_pgt008	tRNA				NC_047476.1	29816	29889	minus	0		
+141317	Justicia adhatoda	54617840	0	live	trnC (GCA)	HJF47_pgt007	tRNA				NC_047476.1	27376	27446	plus	0		
+141317	Justicia adhatoda	54617831	0	live	trnR (UCU)	HJF47_pgt006	tRNA				NC_047476.1	9453	9527	plus	0		
+141317	Justicia adhatoda	54617830	0	live	trnG (UCC)	HJF47_pgt005	tRNA				NC_047476.1	8544	9288	plus	0		
+141317	Justicia adhatoda	54617829	0	live	trnS (GCU)	HJF47_pgt004	tRNA				NC_047476.1	7782	7869	minus	0		
+141317	Justicia adhatoda	54617826	0	live	trnQ (UUG)	HJF47_pgt003	tRNA				NC_047476.1	6545	6616	minus	0		
+141317	Justicia adhatoda	54617823	0	live	trnK-UUU	HJF47_pgt002	tRNA				NC_047476.1	1544	4070	minus	0		
