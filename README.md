@@ -5,7 +5,7 @@ XGB-Pred is a novel, state of the art, machine learning based classifier that ca
 Identification and prediction of this attribute will play a significant role in the automation of multi epitope vaccine designing, reverse vaccinology, immunoinformatics, reverse vaccinology and antibody engineering.
 ## Dependencies  
     1- Biopython library (code available in Step2_Biopython.ipynb)
-    2- Download standalone Pfeature package (code available in Step3_Pfeature.ipynb)
+    2- Standalone Pfeature package (code available in Step3_Pfeature.ipynb)
 
 ## Libraries and Package Requirements  
 ```
