@@ -18,15 +18,15 @@ pip install pandas==2.1.4 joblib==1.2.0 numpy==1.26.4 xgboost==2.1.1 scikit-lear
 **Model Usage:**
 **Step 1:** 
 Load the saved model
-'''
+```
 model_path = "model.pkl"  # Update with your actual model path
 model = joblib.load(model_path)
-'''
+```
 **Step 2:** Load the CSV data
-'''
+```
 data_path = "Epitopes_scaled.csv"  # Update with your CSV file path
 data = pd.read_csv(data_path)
-'''
+```
 **Step 3:** 
 Extract epitope sequences and features
 '''
