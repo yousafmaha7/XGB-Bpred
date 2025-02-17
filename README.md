@@ -1,4 +1,4 @@
-# Project Name: XGB-BPred: Machine Learning based Antibody Mediated Response Predictor for Infectious Diseases
+# XGB-BPred: Machine Learning based Antibody Mediated Response Predictor for Infectious Diseases
 
 ## Description  
 XGB-Pred is a novel, state of the art, machine learning based classifier that can anticipate the antibody mediated immune response of infectious epitopes. 
